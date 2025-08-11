@@ -1,0 +1,17 @@
+{
+  "colab_notebook_filename": "My_Custom_Art_Station.ipynb",
+  "user_interface": "ComfyUI",
+  "main_models": [
+    "stable-diffusion-v1-5",
+    "dreamshaper-8"
+  ],
+  "controlnet_models": [
+    "canny",
+    "openpose",
+    "depth"
+  ],
+  "extra_custom_nodes": [
+    "https://github.com/ltdrdata/ComfyUI-Manager",
+    "https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved"
+  ]
+}
